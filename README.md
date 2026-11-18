@@ -21,7 +21,7 @@ The automatic download needs the repository to be public and the browser to have
 
 ### Full database
 
-The complete 13-table SQLite database is about **1.05 GB** and is not stored in this repository. It is available from the teacher on request.
+The complete 13-table SQLite database is about **1.05 GB** and is not stored in this repository. It is available from me on request.
 
 ### A note on interpretation
 
